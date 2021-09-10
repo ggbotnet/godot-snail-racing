@@ -8,4 +8,4 @@ Renderer: GLES 2
 
 ## Screenshots
 
-![Screenshot](Screenshot.png.png)
+![Screenshot](Screenshot.png)
