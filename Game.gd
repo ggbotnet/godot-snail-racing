@@ -117,8 +117,8 @@ func _input(event: InputEvent) -> void:
 			gui_go.hide()
 	if press_play == true and first_player == false and first_opponent_one == false and first_opponent_two == false:
 		if event.is_action_pressed("keyboard_spacebar"):
-				s_player.transform.origin.x += player_speed
-				btn_counter += 1
+			s_player.transform.origin.x += player_speed
+			btn_counter += 1
 	if cont_reset == true:
 		if event.is_action_pressed("keyboard_spacebar"):
 			animation_player.stop()
