@@ -1,1 +1,1 @@
-# godot-snail-racing
+# Snail Racing (Godot Engine)
