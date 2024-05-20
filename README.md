@@ -1,4 +1,4 @@
-# Snail Racing (Godot Engine)
+# Snail Racing (Godot Engine 3)
 
 A simple button masher racing game.
 
